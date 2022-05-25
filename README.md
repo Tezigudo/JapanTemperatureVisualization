@@ -96,4 +96,3 @@ This Program has a bugs that I trying to fix it but can't fix it that is **Gridi
 ![griding bug](pics/bug.png)
 
 it also has **text in combobox not shown** when Running in `MacOS` Darkmode as seen as picture above too!
-# JapanTemperatureAnalysis
