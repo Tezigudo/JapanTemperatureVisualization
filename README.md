@@ -5,7 +5,7 @@ Second Semester, 2021. Section 450
 
 ## Description
 
-My application can illustrate all Japan city temperatue between `1/1/1955` to `1/1/2021` day by day in average of day by day format
+My application can illustrate all Japan city temperature between `1/1/1955` to `1/1/2021` day by day in average of day by day format
 
 user can choose whether to illustrate the line graph of temperature that
 
